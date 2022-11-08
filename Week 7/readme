@@ -1,2 +1,4 @@
 Julia Set based on the function z(n+1) = z(n) * z(n) + c.
 c is variable through UI.
+
+PRESS "s" TO SAVE THE PICTURE.
