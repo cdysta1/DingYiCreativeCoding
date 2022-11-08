@@ -11,7 +11,7 @@ void UI() {
   slider.addSlider("re_c")//控制变量c实部
     .setPosition(20, 20)
     .setSize(sliderWidth, sliderHeight)
-    .setRange(-1,1)
+    .setRange(-1.5,1)
     .setValue(0)
     ;
     
